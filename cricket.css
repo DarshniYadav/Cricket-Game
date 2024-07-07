@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background-image: url('https://t3.ftcdn.net/jpg/03/29/04/48/360_F_329044817_yuu5YhcRsFhmjfIRSIh4I469qvFDKkY8.jpg');
+  background-size: cover;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.choice-button {
+  height: 100px;
+  width: 100px;
+  border: none;
+  margin: 10px;
+  background-color: rgb(164, 212, 130);
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+.choice-image {
+  height: 75px;
+}
